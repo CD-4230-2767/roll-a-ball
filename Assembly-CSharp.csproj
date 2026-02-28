@@ -953,10 +953,6 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
       <Private>False</Private>
@@ -967,6 +963,10 @@
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
@@ -985,16 +985,16 @@
       <HintPath>Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.InputSystem.ForUI">
-      <HintPath>Library\ScriptAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
+    <Reference Include="Unity.ProBuilder.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
       <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.ProBuilder.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll</HintPath>
+    <Reference Include="Unity.InputSystem.ForUI">
+      <HintPath>Library\ScriptAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
@@ -1049,12 +1049,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
       <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>

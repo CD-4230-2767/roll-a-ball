@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using gameObject;
 using TMPro;
 
 
@@ -10,7 +9,7 @@ public class PlayerController : MonoBehaviour
 {
     public float speed = 0;
     public TextMeshProUGUI countText;
-    public gameObject winTextObject;
+    public GameObject winTextObject;
 
     private Rigidbody rb;
     private int count;
@@ -39,7 +38,7 @@ public class PlayerController : MonoBehaviour
             Destroy(gameObject);
 
             winTextObject.gameObject.SetActive(true);
-            winTextObject.Text = "You lose";
+            winTextObject.GetComponent<TextMeshProUGUI>().text = "You Lose!";
         }
     }
     void OnMove(InputValue movementValue)
@@ -52,12 +51,12 @@ public class PlayerController : MonoBehaviour
     void SetCountText()
     {
         countText.text = "count: " + count.ToString();
-        if(count>= 3)
+        if(count>= 12)
         {
          winTextObject.gameObject.SetActive(true); 
-         winTextObject.text = "You Win!!";
+         winTextObject.GetComponent<TextMeshProUGUI>().text =  "You Win!!";
 
-         Destroy(gameObject.findGameObjectWithTag("Enemy"));    
+         Destroy(GameObject.FindGameObjectWithTag("Enemy"));   
         }
     }
 
