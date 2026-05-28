@@ -15,7 +15,10 @@ public class PlayerController : MonoBehaviour
     private int count;
     private float movementX;
     private float movementY;
+<<<<<<< HEAD
     public AudioSource musicSource;
+=======
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
    
 
     void Start()
@@ -38,8 +41,11 @@ public class PlayerController : MonoBehaviour
         if(collision.gameObject.CompareTag("Enemy")){
             Destroy(gameObject);
 
+<<<<<<< HEAD
             musicSource.Stop();
 
+=======
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
             winTextObject.gameObject.SetActive(true);
             winTextObject.GetComponent<TextMeshProUGUI>().text = "You Lose!";
         }
@@ -56,11 +62,18 @@ public class PlayerController : MonoBehaviour
         countText.text = "count: " + count.ToString();
         if(count>= 12)
         {
+<<<<<<< HEAD
             musicSource.Stop();
             winTextObject.gameObject.SetActive(true); 
             winTextObject.GetComponent<TextMeshProUGUI>().text =  "You Win!!";
             
             Destroy(GameObject.FindGameObjectWithTag("Enemy"));   
+=======
+         winTextObject.gameObject.SetActive(true); 
+         winTextObject.GetComponent<TextMeshProUGUI>().text =  "You Win!!";
+
+         Destroy(GameObject.FindGameObjectWithTag("Enemy"));   
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
         }
     }
 

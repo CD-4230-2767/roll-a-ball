@@ -51,5 +51,9 @@
         "temp/": true,
         "Temp/": true
     },
+<<<<<<< HEAD
     "dotnet.defaultSolution": "roll-a-ball-master.slnx"
+=======
+    "dotnet.defaultSolution": "roll-a-bal.sln"
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
 }

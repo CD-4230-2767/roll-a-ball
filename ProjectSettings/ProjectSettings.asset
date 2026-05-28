@@ -3,7 +3,11 @@
 --- !u!129 &1
 PlayerSettings:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   serializedVersion: 28
+=======
+  serializedVersion: 26
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   productGUID: 9795e91264a9fb545809d29d9501874d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
@@ -49,7 +53,10 @@ PlayerSettings:
   m_StereoRenderingPath: 0
   m_ActiveColorSpace: 1
   unsupportedMSAAFallback: 0
+<<<<<<< HEAD
   m_SpriteBatchMaxVertexCount: 65535
+=======
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   m_SpriteBatchVertexThreshold: 300
   m_MTRendering: 1
   mipStripping: 0
@@ -70,9 +77,14 @@ PlayerSettings:
   androidStartInFullscreen: 1
   androidRenderOutsideSafeArea: 1
   androidUseSwappy: 1
+<<<<<<< HEAD
   androidDisplayOptions: 1
   androidBlitType: 0
   androidResizeableActivity: 0
+=======
+  androidBlitType: 0
+  androidResizableWindow: 0
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   androidDefaultWindowWidth: 1920
   androidDefaultWindowHeight: 1080
   androidMinimumWindowWidth: 400
@@ -80,10 +92,17 @@ PlayerSettings:
   androidFullscreenMode: 1
   androidAutoRotationBehavior: 1
   androidPredictiveBackSupport: 1
+<<<<<<< HEAD
   androidApplicationEntry: 1
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
   runInBackground: 1
+=======
+  defaultIsNativeResolution: 1
+  macRetinaSupport: 1
+  runInBackground: 1
+  captureSingleScreen: 0
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
   Force IOS Speakers When Recording: 0
@@ -100,7 +119,10 @@ PlayerSettings:
   useMacAppStoreValidation: 0
   macAppStoreCategory: public.app-category.games
   gpuSkinning: 1
+<<<<<<< HEAD
   meshDeformation: 2
+=======
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   xboxPIXTextureCapture: 0
   xboxEnableAvatar: 0
   xboxEnableKinect: 0
@@ -132,9 +154,16 @@ PlayerSettings:
   switchAllowGpuScratchShrinking: 0
   switchNVNMaxPublicTextureIDCount: 0
   switchNVNMaxPublicSamplerIDCount: 0
+<<<<<<< HEAD
   switchMaxWorkerMultiple: 8
   switchNVNGraphicsFirmwareMemory: 32
   switchGraphicsJobsSyncAfterKick: 1
+=======
+  switchNVNGraphicsFirmwareMemory: 32
+  switchMaxWorkerMultiple: 8
+  stadiaPresentMode: 0
+  stadiaTargetFramerate: 0
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   vulkanNumSwapchainBuffers: 3
   vulkanEnableSetSRGBWrite: 0
   vulkanEnablePreTransform: 1
@@ -164,7 +193,10 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
+<<<<<<< HEAD
   androidMinAspectRatio: 1
+=======
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   applicationIdentifier: {}
   buildNumber:
     Standalone: 0
@@ -173,10 +205,16 @@ PlayerSettings:
     tvOS: 0
   overrideDefaultApplicationIdentifier: 0
   AndroidBundleVersionCode: 1
+<<<<<<< HEAD
   AndroidMinSdkVersion: 25
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   AndroidPreferredDataLocation: 1
+=======
+  AndroidMinSdkVersion: 22
+  AndroidTargetSdkVersion: 0
+  AndroidPreferredInstallLocation: 1
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   aotOptions: 
   stripEngineCode: 1
   iPhoneStrippingLevel: 0
@@ -184,18 +222,30 @@ PlayerSettings:
   ForceInternetPermission: 0
   ForceSDCardPermission: 0
   CreateWallpaper: 0
+<<<<<<< HEAD
   androidSplitApplicationBinary: 0
+=======
+  APKExpansionFiles: 0
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   keepLoadedShadersAlive: 0
   StripUnusedMeshComponents: 1
   strictShaderVariantMatching: 0
   VertexChannelCompressionMask: 4054
   iPhoneSdkVersion: 988
   iOSSimulatorArchitecture: 0
+<<<<<<< HEAD
   iOSTargetOSVersionString: 15.0
   tvOSSdkVersion: 0
   tvOSSimulatorArchitecture: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 15.0
+=======
+  iOSTargetOSVersionString: 12.0
+  tvOSSdkVersion: 0
+  tvOSSimulatorArchitecture: 0
+  tvOSRequireExtendedGameController: 0
+  tvOSTargetOSVersionString: 12.0
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   VisionOSSdkVersion: 0
   VisionOSTargetOSVersionString: 1.0
   uIPrerenderedIcon: 0
@@ -222,6 +272,10 @@ PlayerSettings:
     rgba: 0
   iOSLaunchScreenFillPct: 100
   iOSLaunchScreenSize: 100
+<<<<<<< HEAD
+=======
+  iOSLaunchScreenCustomXibPath: 
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   iOSLaunchScreeniPadType: 0
   iOSLaunchScreeniPadImage: {fileID: 0}
   iOSLaunchScreeniPadBackgroundColor:
@@ -229,6 +283,10 @@ PlayerSettings:
     rgba: 0
   iOSLaunchScreeniPadFillPct: 100
   iOSLaunchScreeniPadSize: 100
+<<<<<<< HEAD
+=======
+  iOSLaunchScreeniPadCustomXibPath: 
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   iOSLaunchScreenCustomStoryboardPath: 
   iOSLaunchScreeniPadCustomStoryboardPath: 
   iOSDeviceRequirements: []
@@ -265,12 +323,17 @@ PlayerSettings:
   useCustomGradleSettingsTemplate: 0
   useCustomProguardFile: 0
   AndroidTargetArchitectures: 1
+<<<<<<< HEAD
   AndroidAllowedArchitectures: -1
+=======
+  AndroidTargetDevices: 0
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
   AndroidEnableArmv9SecurityFeatures: 0
+<<<<<<< HEAD
   AndroidEnableArm64MTE: 0
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
@@ -278,6 +341,11 @@ PlayerSettings:
   androidAppCategory: 3
   useAndroidAppCategory: 1
   androidAppCategoryOther: 
+=======
+  AndroidBuildApkPerCpuArchitecture: 0
+  AndroidTVCompatibility: 0
+  AndroidIsGame: 1
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   AndroidEnableTango: 0
   androidEnableBanner: 1
   androidUseLowAccuracyLocation: 0
@@ -287,12 +355,19 @@ PlayerSettings:
     height: 180
     banner: {fileID: 0}
   androidGamepadSupportLevel: 0
+<<<<<<< HEAD
+=======
+  chromeosInputEmulation: 1
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   AndroidMinifyRelease: 0
   AndroidMinifyDebug: 0
   AndroidValidateAppBundleSize: 1
   AndroidAppBundleSizeToValidate: 150
+<<<<<<< HEAD
   AndroidReportGooglePlayAppDependencies: 1
   androidSymbolsSizeThreshold: 800
+=======
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   m_BuildTargetIcons: []
   m_BuildTargetPlatformIcons: []
   m_BuildTargetBatching:
@@ -357,9 +432,12 @@ PlayerSettings:
   - m_BuildTarget: WebGLSupport
     m_APIs: 0b000000
     m_Automatic: 1
+<<<<<<< HEAD
   - m_BuildTarget: WindowsStandaloneSupport
     m_APIs: 0200000012000000
     m_Automatic: 0
+=======
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   m_BuildTargetVRSettings:
   - m_BuildTarget: Standalone
     m_Enabled: 0
@@ -377,6 +455,7 @@ PlayerSettings:
     iPhone: 1
     tvOS: 1
   m_BuildTargetGroupLightmapEncodingQuality:
+<<<<<<< HEAD
   - serializedVersion: 2
     m_BuildTarget: Android
     m_EncodingQuality: 1
@@ -395,6 +474,20 @@ PlayerSettings:
     m_EncodingQuality: 1
   - serializedVersion: 2
     m_BuildTarget: tvOS
+=======
+  - m_BuildTarget: Android
+    m_EncodingQuality: 1
+  - m_BuildTarget: iPhone
+    m_EncodingQuality: 1
+  - m_BuildTarget: tvOS
+    m_EncodingQuality: 1
+  m_BuildTargetGroupHDRCubemapEncodingQuality:
+  - m_BuildTarget: Android
+    m_EncodingQuality: 1
+  - m_BuildTarget: iPhone
+    m_EncodingQuality: 1
+  - m_BuildTarget: tvOS
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
     m_EncodingQuality: 1
   m_BuildTargetGroupLightmapSettings: []
   m_BuildTargetGroupLoadStoreDebugModeSettings: []
@@ -406,6 +499,7 @@ PlayerSettings:
   - m_BuildTarget: tvOS
     m_Encoding: 1
   m_BuildTargetDefaultTextureCompressionFormat:
+<<<<<<< HEAD
   - serializedVersion: 3
     m_BuildTarget: Android
     m_Formats: 03000000
@@ -413,6 +507,13 @@ PlayerSettings:
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
   editorGfxJobOverride: 1
+=======
+  - m_BuildTarget: Android
+    m_Format: 3
+  playModeTestRunnerEnabled: 0
+  runPlayModeTestAsEditModeTest: 0
+  actionOnDotNetUnhandledException: 1
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
@@ -420,7 +521,11 @@ PlayerSettings:
   locationUsageDescription: 
   microphoneUsageDescription: 
   bluetoothUsageDescription: 
+<<<<<<< HEAD
   macOSTargetOSVersion: 12.0
+=======
+  macOSTargetOSVersion: 10.13.0
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   switchNMETAOverride: 
   switchNetLibKey: 
   switchSocketMemoryPoolSize: 6144
@@ -565,7 +670,10 @@ PlayerSettings:
   switchEnableRamDiskSupport: 0
   switchMicroSleepForYieldTime: 25
   switchRamDiskSpaceSize: 12
+<<<<<<< HEAD
   switchUpgradedPlayerSettingsToNMETA: 0
+=======
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
@@ -669,18 +777,24 @@ PlayerSettings:
   webGLMemoryGeometricGrowthStep: 0.2
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
+<<<<<<< HEAD
   webGLWebAssemblyTable: 0
   webGLWebAssemblyBigInt: 0
   webGLCloseOnQuit: 0
   webWasm2023: 0
   webEnableSubmoduleStrippingCompatibility: 0
+=======
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   scriptingDefineSymbols: {}
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
   il2cppCodeGeneration: {}
+<<<<<<< HEAD
   il2cppStacktraceInformation: {}
+=======
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   managedStrippingLevel:
     EmbeddedLinux: 1
     GameCoreScarlett: 1
@@ -705,7 +819,10 @@ PlayerSettings:
   gcIncremental: 1
   gcWBarrierValidation: 0
   apiCompatibilityLevelPerPlatform: {}
+<<<<<<< HEAD
   editorAssembliesCompatibilityLevel: 1
+=======
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: roll-a-bal
@@ -780,11 +897,17 @@ PlayerSettings:
   hmiPlayerDataPath: 
   hmiForceSRGBBlit: 1
   embeddedLinuxEnableGamepadInput: 1
+<<<<<<< HEAD
   hmiCpuConfiguration: 
   hmiLogStartupTiming: 0
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
+=======
+  hmiLogStartupTiming: 0
+  hmiCpuConfiguration: 
+  apiCompatibilityLevel: 6
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 86d328c9-9991-4fd0-aeee-ab72396fa3a3
@@ -798,8 +921,11 @@ PlayerSettings:
   platformRequiresReadableAssets: 0
   virtualTexturingSupportEnabled: 0
   insecureHttpOption: 0
+<<<<<<< HEAD
   androidVulkanDenyFilterList: []
   androidVulkanAllowFilterList: []
   androidVulkanDeviceFilterListAsset: {fileID: 0}
   d3d12DeviceFilterListAsset: {fileID: 0}
   allowedHttpConnections: 3
+=======
+>>>>>>> eafabc0242d733095bef4c499b9ed4de1c5894ab
